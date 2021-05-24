@@ -1,1 +1,1 @@
-# pytorch-deep-learning
+# Deep Learning with Pytorch
